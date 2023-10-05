@@ -1,0 +1,15 @@
+C:\Users\hikki\Desktop\.net\projeto1\bin\Debug\net6.0\projeto1.exe
+C:\Users\hikki\Desktop\.net\projeto1\bin\Debug\net6.0\projeto1.deps.json
+C:\Users\hikki\Desktop\.net\projeto1\bin\Debug\net6.0\projeto1.runtimeconfig.json
+C:\Users\hikki\Desktop\.net\projeto1\bin\Debug\net6.0\projeto1.dll
+C:\Users\hikki\Desktop\.net\projeto1\bin\Debug\net6.0\projeto1.pdb
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.csproj.AssemblyReference.cache
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.AssemblyInfo.cs
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.dll
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\refint\projeto1.dll
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.pdb
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\projeto1.genruntimeconfig.cache
+C:\Users\hikki\Desktop\.net\projeto1\obj\Debug\net6.0\ref\projeto1.dll

@@ -1,0 +1,33 @@
+csproj tem tags que fazem especificações do projeto, bibliotecas sao adicionadas nesse arqueivo as vez
+
+Nome de classe é PascalCase dog
+propriedade tbm
+metodo tbm
+
+as variavel são camelCase pogggers 
+
+sem caracter especial irmão (so underline)
+
+
+importante não abreviar as coisas pra ficar fácil de ler
+
+nome do arquivo é o mesmo da classe (faz sentido)
+
+obj tem os arquivos pra debuggin
+
+***extensão .cs é pra classes***
+
+
+bin tem os binarios do projeto qnd ele builda
+
+abstraia so necessario n seje burro amigo
+
+***prop e tab ja faz a sintaxe pra criar um atributo***
+
+Console.WriteLine($"Olá meu nome é {Nome}, e tenho {Idade} anos");
+
+
+{} no consoleWrite faz a formatação pra dentro do texto
+
+pode ter varias classes com mesmo nome so mudar o namespace (isso é pog)
+
