@@ -1,0 +1,12 @@
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\bin\Debug\net6.0\theBasics.Common.deps.json
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\bin\Debug\net6.0\theBasics.Common.dll
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\bin\Debug\net6.0\theBasics.Common.pdb
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\theBasics.Common.csproj.AssemblyReference.cache
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\theBasics.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\theBasics.Common.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\theBasics.Common.AssemblyInfo.cs
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\theBasics.Common.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\theBasics.Common.dll
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\refint\theBasics.Common.dll
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\theBasics.Common.pdb
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\theBasics\theBasics.Common\obj\Debug\net6.0\ref\theBasics.Common.dll

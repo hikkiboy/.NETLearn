@@ -31,3 +31,11 @@ Console.WriteLine($"Olá meu nome é {Nome}, e tenho {Idade} anos");
 
 pode ter varias classes com mesmo nome so mudar o namespace (isso é pog)
 
+int cabe no long 
+long n cabe num int
+
+Convert.ToInt() todouble to qlqr coisa 
+
+int.TryParse(a, out b) <---- espera o erro, se der erro o B é usado. pode fazer out int B tbm pra gerar uma variavel pra ser usada dps pog
+
+sln (solution) são agrupamentos de projetos
