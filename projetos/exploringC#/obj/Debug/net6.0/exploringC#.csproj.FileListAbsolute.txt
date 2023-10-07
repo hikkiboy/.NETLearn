@@ -1,0 +1,15 @@
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\bin\Debug\net6.0\exploringC#.exe
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\bin\Debug\net6.0\exploringC#.deps.json
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\bin\Debug\net6.0\exploringC#.runtimeconfig.json
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\bin\Debug\net6.0\exploringC#.dll
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\bin\Debug\net6.0\exploringC#.pdb
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.csproj.AssemblyReference.cache
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.AssemblyInfo.cs
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.dll
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\refint\exploringC#.dll
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.pdb
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\exploringC#.genruntimeconfig.cache
+C:\Users\hikki\Desktop\.net\projeto2\.NETLearn\projetos\exploringC#\obj\Debug\net6.0\ref\exploringC#.dll
