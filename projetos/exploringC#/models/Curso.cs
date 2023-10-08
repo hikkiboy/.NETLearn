@@ -26,9 +26,11 @@ namespace exploringC_.models
        }
 
        public void ListarAlunos(){
-        foreach (Pessoa i in Alunos)
+        for(int i = 0; i < Alunos.Count();i++)
         {
-            Console.WriteLine(i.NomeComplete);
+            string texto = $"Numero {i+1} - {Alunos[i].NomeComplete}";
+            Console.WriteLine(texto);
+            //Console.WriteLine(Alunos[i].NomeComplete);
         }
        }
 
