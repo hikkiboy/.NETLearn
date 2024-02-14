@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\OOPExercises4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\OOPExercises4.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\OOPExercises4.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\OOPExercises4.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\bin\Debug\net6.0\OOPExercises4.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\bin\Debug\net6.0\OOPExercises4.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\bin\Debug\net6.0\OOPExercises4.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\bin\Debug\net6.0\OOPExercises4.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\bin\Debug\net6.0\OOPExercises4.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\OOPExercises4.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\refint\OOPExercises4.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\OOPExercises4.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\OOPExercises4.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises4\obj\Debug\net6.0\ref\OOPExercises4.dll

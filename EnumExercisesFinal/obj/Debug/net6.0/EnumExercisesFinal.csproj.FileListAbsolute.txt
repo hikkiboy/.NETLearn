@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\EnumExercisesFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\EnumExercisesFinal.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\EnumExercisesFinal.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\EnumExercisesFinal.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\bin\Debug\net6.0\EnumExercisesFinal.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\bin\Debug\net6.0\EnumExercisesFinal.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\bin\Debug\net6.0\EnumExercisesFinal.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\bin\Debug\net6.0\EnumExercisesFinal.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\bin\Debug\net6.0\EnumExercisesFinal.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\EnumExercisesFinal.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\refint\EnumExercisesFinal.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\EnumExercisesFinal.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\EnumExercisesFinal.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumExercisesFinal\obj\Debug\net6.0\ref\EnumExercisesFinal.dll

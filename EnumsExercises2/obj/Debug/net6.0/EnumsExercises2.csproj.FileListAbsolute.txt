@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\EnumsExercises2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\EnumsExercises2.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\EnumsExercises2.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\EnumsExercises2.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\bin\Debug\net6.0\EnumsExercises2.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\bin\Debug\net6.0\EnumsExercises2.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\bin\Debug\net6.0\EnumsExercises2.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\bin\Debug\net6.0\EnumsExercises2.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\bin\Debug\net6.0\EnumsExercises2.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\EnumsExercises2.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\refint\EnumsExercises2.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\EnumsExercises2.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\EnumsExercises2.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\EnumsExercises2\obj\Debug\net6.0\ref\EnumsExercises2.dll

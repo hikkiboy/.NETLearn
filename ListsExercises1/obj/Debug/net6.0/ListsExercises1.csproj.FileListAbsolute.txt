@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ListsExercises1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ListsExercises1.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ListsExercises1.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ListsExercises1.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\bin\Debug\net6.0\ListsExercises1.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\bin\Debug\net6.0\ListsExercises1.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\bin\Debug\net6.0\ListsExercises1.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\bin\Debug\net6.0\ListsExercises1.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\bin\Debug\net6.0\ListsExercises1.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ListsExercises1.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\refint\ListsExercises1.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ListsExercises1.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ListsExercises1.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ListsExercises1\obj\Debug\net6.0\ref\ListsExercises1.dll

@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\NoOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\NoOOP.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\NoOOP.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\NoOOP.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\bin\Debug\net6.0\NoOOP.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\bin\Debug\net6.0\NoOOP.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\bin\Debug\net6.0\NoOOP.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\bin\Debug\net6.0\NoOOP.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\bin\Debug\net6.0\NoOOP.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\NoOOP.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\refint\NoOOP.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\NoOOP.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\NoOOP.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\NoOOP\obj\Debug\net6.0\ref\NoOOP.dll

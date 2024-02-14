@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\bin\Debug\net6.0\OOPStore.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\bin\Debug\net6.0\OOPStore.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\bin\Debug\net6.0\OOPStore.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\bin\Debug\net6.0\OOPStore.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\bin\Debug\net6.0\OOPStore.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\OOPStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\OOPStore.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\OOPStore.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\OOPStore.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\OOPStore.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\refint\OOPStore.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\OOPStore.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\OOPStore.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPStore\obj\Debug\net6.0\ref\OOPStore.dll

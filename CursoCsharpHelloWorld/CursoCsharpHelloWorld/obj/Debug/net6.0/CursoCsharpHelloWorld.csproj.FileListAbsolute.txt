@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\bin\Debug\net6.0\CursoCsharpHelloWorld.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\bin\Debug\net6.0\CursoCsharpHelloWorld.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\bin\Debug\net6.0\CursoCsharpHelloWorld.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\bin\Debug\net6.0\CursoCsharpHelloWorld.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\bin\Debug\net6.0\CursoCsharpHelloWorld.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\CursoCsharpHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\CursoCsharpHelloWorld.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\CursoCsharpHelloWorld.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\CursoCsharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\CursoCsharpHelloWorld.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\refint\CursoCsharpHelloWorld.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\CursoCsharpHelloWorld.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\CursoCsharpHelloWorld.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpHelloWorld\CursoCsharpHelloWorld\obj\Debug\net6.0\ref\CursoCsharpHelloWorld.dll

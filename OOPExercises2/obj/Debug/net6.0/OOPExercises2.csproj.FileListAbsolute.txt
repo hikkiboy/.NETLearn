@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\bin\Debug\net6.0\OOPExercises2.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\bin\Debug\net6.0\OOPExercises2.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\bin\Debug\net6.0\OOPExercises2.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\bin\Debug\net6.0\OOPExercises2.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\bin\Debug\net6.0\OOPExercises2.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\OOPExercises2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\OOPExercises2.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\OOPExercises2.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\OOPExercises2.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\OOPExercises2.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\refint\OOPExercises2.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\OOPExercises2.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\OOPExercises2.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises2\obj\Debug\net6.0\ref\OOPExercises2.dll

@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\bin\Debug\net6.0\AbstractExercise.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\bin\Debug\net6.0\AbstractExercise.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\bin\Debug\net6.0\AbstractExercise.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\bin\Debug\net6.0\AbstractExercise.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\bin\Debug\net6.0\AbstractExercise.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\AbstractExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\AbstractExercise.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\AbstractExercise.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\AbstractExercise.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\AbstractExercise.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\refint\AbstractExercise.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\AbstractExercise.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\AbstractExercise.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\AbstractExercise\obj\Debug\net6.0\ref\AbstractExercise.dll

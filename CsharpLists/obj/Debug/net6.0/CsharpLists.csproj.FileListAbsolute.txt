@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\bin\Debug\net6.0\CsharpLists.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\bin\Debug\net6.0\CsharpLists.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\bin\Debug\net6.0\CsharpLists.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\bin\Debug\net6.0\CsharpLists.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\bin\Debug\net6.0\CsharpLists.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\CsharpLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\CsharpLists.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\CsharpLists.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\CsharpLists.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\CsharpLists.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\refint\CsharpLists.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\CsharpLists.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\CsharpLists.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpLists\obj\Debug\net6.0\ref\CsharpLists.dll

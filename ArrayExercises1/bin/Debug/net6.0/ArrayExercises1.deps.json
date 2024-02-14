@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArrayExercises1/1.0.0": {
+        "runtime": {
+          "ArrayExercises1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayExercises1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

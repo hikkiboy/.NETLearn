@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\bin\Debug\net6.0\CsharpEnum.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\bin\Debug\net6.0\CsharpEnum.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\bin\Debug\net6.0\CsharpEnum.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\bin\Debug\net6.0\CsharpEnum.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\bin\Debug\net6.0\CsharpEnum.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\CsharpEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\CsharpEnum.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\CsharpEnum.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\CsharpEnum.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\CsharpEnum.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\refint\CsharpEnum.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\CsharpEnum.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\CsharpEnum.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CsharpEnum\obj\Debug\net6.0\ref\CsharpEnum.dll

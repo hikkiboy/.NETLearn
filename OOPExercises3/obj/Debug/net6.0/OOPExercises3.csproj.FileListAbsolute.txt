@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\bin\Debug\net6.0\OOPExercises3.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\bin\Debug\net6.0\OOPExercises3.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\bin\Debug\net6.0\OOPExercises3.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\bin\Debug\net6.0\OOPExercises3.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\bin\Debug\net6.0\OOPExercises3.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\OOPExercises3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\OOPExercises3.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\OOPExercises3.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\OOPExercises3.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\OOPExercises3.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\refint\OOPExercises3.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\OOPExercises3.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\OOPExercises3.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\OOPExercises3\obj\Debug\net6.0\ref\OOPExercises3.dll

@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\bin\Debug\net6.0\InheretanceAndPolymorphExercises1.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\bin\Debug\net6.0\InheretanceAndPolymorphExercises1.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\bin\Debug\net6.0\InheretanceAndPolymorphExercises1.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\bin\Debug\net6.0\InheretanceAndPolymorphExercises1.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\bin\Debug\net6.0\InheretanceAndPolymorphExercises1.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\InheretanceAndPolymorphExercises1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\InheretanceAndPolymorphExercises1.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\InheretanceAndPolymorphExercises1.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\InheretanceAndPolymorphExercises1.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\InheretanceAndPolymorphExercises1.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\refint\InheretanceAndPolymorphExercises1.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\InheretanceAndPolymorphExercises1.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\InheretanceAndPolymorphExercises1.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\InheretanceAndPolymorphExercises1\obj\Debug\net6.0\ref\InheretanceAndPolymorphExercises1.dll

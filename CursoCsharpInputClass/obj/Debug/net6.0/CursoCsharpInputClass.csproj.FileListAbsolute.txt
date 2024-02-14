@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\bin\Debug\net6.0\CursoCsharpInputClass.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\bin\Debug\net6.0\CursoCsharpInputClass.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\bin\Debug\net6.0\CursoCsharpInputClass.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\bin\Debug\net6.0\CursoCsharpInputClass.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\bin\Debug\net6.0\CursoCsharpInputClass.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\CursoCsharpInputClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\CursoCsharpInputClass.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\CursoCsharpInputClass.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\CursoCsharpInputClass.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\CursoCsharpInputClass.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\refint\CursoCsharpInputClass.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\CursoCsharpInputClass.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\CursoCsharpInputClass.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\CursoCsharpInputClass\obj\Debug\net6.0\ref\CursoCsharpInputClass.dll

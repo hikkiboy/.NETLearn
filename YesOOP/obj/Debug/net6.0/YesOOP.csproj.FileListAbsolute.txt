@@ -1,0 +1,14 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\bin\Debug\net6.0\YesOOP.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\bin\Debug\net6.0\YesOOP.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\bin\Debug\net6.0\YesOOP.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\bin\Debug\net6.0\YesOOP.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\bin\Debug\net6.0\YesOOP.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\YesOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\YesOOP.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\YesOOP.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\YesOOP.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\YesOOP.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\refint\YesOOP.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\YesOOP.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\YesOOP.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\YesOOP\obj\Debug\net6.0\ref\YesOOP.dll
