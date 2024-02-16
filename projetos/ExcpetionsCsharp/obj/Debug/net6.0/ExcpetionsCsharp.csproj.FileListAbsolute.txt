@@ -1,0 +1,15 @@
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\bin\Debug\net6.0\ExcpetionsCsharp.exe
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\bin\Debug\net6.0\ExcpetionsCsharp.deps.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\bin\Debug\net6.0\ExcpetionsCsharp.runtimeconfig.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\bin\Debug\net6.0\ExcpetionsCsharp.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\bin\Debug\net6.0\ExcpetionsCsharp.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.sourcelink.json
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\refint\ExcpetionsCsharp.dll
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.pdb
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ExcpetionsCsharp.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Csharp_Curso_udemy\ExcpetionsCsharp\obj\Debug\net6.0\ref\ExcpetionsCsharp.dll
