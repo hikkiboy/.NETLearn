@@ -1,0 +1,15 @@
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\bin\Debug\net6.0\FilesCsharp.exe
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\bin\Debug\net6.0\FilesCsharp.deps.json
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\bin\Debug\net6.0\FilesCsharp.runtimeconfig.json
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\bin\Debug\net6.0\FilesCsharp.dll
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\bin\Debug\net6.0\FilesCsharp.pdb
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.AssemblyInfoInputs.cache
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.AssemblyInfo.cs
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.sourcelink.json
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.dll
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\refint\FilesCsharp.dll
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.pdb
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\FilesCsharp.genruntimeconfig.cache
+C:\Users\hikki\Desktop\Xadrez\XadrezConsole\FilesCsharp\obj\Debug\net6.0\ref\FilesCsharp.dll
